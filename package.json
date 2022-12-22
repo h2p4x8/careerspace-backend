@@ -13,7 +13,7 @@
     "client-swift": "^0.1.1",
     "connect-redis": "^3.4.1",
     "grunt": "1.0.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mailgun-js": "^0.22.0",
     "nodemailer": "^6.2.1",
     "passport": "^0.4.0",
